@@ -1,0 +1,7 @@
+1. Who developed pythpn programming language
+Ans. Guido Van Rossum
+
+2. Which type of programming does python support
+Ans. Object oriented programming and Structured Programming
+
+3.
