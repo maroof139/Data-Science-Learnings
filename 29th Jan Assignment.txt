@@ -1,7 +1,55 @@
-1. Who developed pythpn programming language
+1. Who developed pythpn programming language?
 Ans. Guido Van Rossum
 
-2. Which type of programming does python support
+2. Which type of programming does python support?
 Ans. Object oriented programming and Structured Programming
 
-3.
+3.Is python case sensitive when dealing with identifiers?
+Ans. Yes
+
+4. What is the correct entiension of python file?
+Ans. .py
+
+5. Is python code compiled or interpreted?
+Ans. Python is an interpreted language
+
+6. Name a few block of codes used to define in python language?
+Ans. Module, functional block and a class definition
+
+7. State a character used to give single-line comments in python? 
+Ans. #
+
+8. Mention function which can help us to find the version of python that we are currently working on?
+Ans. python-v
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called 
+Ans. Lambda
+
+10. What does pip stand for in python?
+Ans. Preferred Installer Program, used for installing packages.
+
+11. Mention a few built-in functions in python?
+Ans. Bin(), Bool(), ByteArray(), bytes(), int(), float()
+
+12. What is the maximum length of an identifier in python?
+Ans. 79 characters
+
+13. What are the benifits of using python?
+Ans. i. Object Oriented and Procedural language.
+     ii. User-friendly data structures
+     iii. High Level Language
+     iv. Easy to read, learn and write
+     v. Extensive Support Libraries
+     
+14. How is memory managed in python?
+Ans. Memory Management involves a private heap that contains all python objects and data structures.
+
+15. How to install python on windows and set path variables?
+Ans. i. install python from this link https://www.python.org/downloads/
+ii. After this, install it on your PC. Look for the location where PYTHON has been installed on your PC using tge following command on your command prompt: cmd python.
+iii. Then go to advanced system settings and add new variable and name it as PYTHON_NAME and paste the copied path.
+iv. Then look for the path variable, select it's value and select edit
+v. Add a semicolon towards the end of the value if it's not present and then type %PYTHON_HOME%
+
+16. Is indentation required in python?
+Ans. Yes it is required and is very important.
